@@ -15,8 +15,8 @@ Patagonia, marine science, conservation, and tourism 🌊. (I'm not taking anyon
   - https://discord.gg/p6SF8TMKpm
   - https://discord.gg/s3sMAHACeh
 
-## Principles
-- Enthusiasm, optimistic attitude, think smart & integrity.
+## How?
+- With enthusiasm, an optimistic attitude, thinking smart & integrity.
 - Focused on clarity: small features, clear docs, steady improvements.
 - Work must be enjoyed, and learning must be enjoyed: 
 Life is too short not to allow yourself to have a little bit of happiness on the journey. 🤗🌞
