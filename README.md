@@ -2,7 +2,7 @@
 I build simple, useful things around Bitcoin/lightning and Nostr. Curious by default, fast to learn, and currently learning how to create lightning (Bitcoin) apps.
 
 ## Now
-- User management & support at Alby: I have been helping users get on board the ship of the self-custodial wallet Alby Hub.🚢🤵
+- User management & support at Alby: Helping users get on board the ship of the self-custodial wallet Alby Hub.🚢🤵
 - Now I'm working on developing skills so that I can also fix and enhance the ship. 🚢🛠️
 - Focused both on the user experiences and the appropriate use of tech (Next + TypeScript) for lightning/Nostr apps.
 - I still manage clients from freelancing. I've done quite a lot of websites on a particular niche: 
