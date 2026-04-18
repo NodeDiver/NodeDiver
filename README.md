@@ -11,7 +11,7 @@ I build simple, useful things around Bitcoin/Lightning and Nostr. Curious by def
 - I still keep a few freelance clients from my older niche: Patagonia, marine science, conservation, and tourism 🌊 (not taking anyone new just long-term relationships).
 
 ## Learning in public
-- All my personal projects are open source — the good, the bad, and the ugly, for everyone to see.
+- All my personal projects are open source, the good, the bad, and the ugly, for everyone to see.
 - Deep diving into Claude Code sessions and multi-agent experiments to push what a small team can actually ship. 🛠️
 - Active in Alby and NWC (Nostr Wallet Connect) Discord channels. Let's grow the community and learn together! 💪
   - https://discord.gg/p6SF8TMKpm
