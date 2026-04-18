@@ -28,4 +28,4 @@ Life is too short not to allow yourself to have a little bit of happiness on the
 GitHub: https://github.com/NodeDiver  
 Oryon Soluciones: https://oryonsoluciones.com  
 Email: nodediver@proton.me  
-Lightning address: ⚡ nodii@getalby.com
+Lightning address: ⚡ nodii@getalby.com (shut off for the moment, will be back online when I have some time to remount my btc/ln node)
