@@ -1,5 +1,6 @@
 # Hi, I’m Nodii ⚡
-I build simple, useful things around Bitcoin/Lightning and Nostr. Curious by default, fast to learn, and currently going deep into AI-assisted development with Claude Code and building cool stuff for small local companies. 
+I build simple, useful things around Bitcoin/Lightning and Nostr. Curious by default, fast to learn.
+Currently going deep into AI-assisted development with Claude Code and building cool stuff for small local companies. 
 
 ## Now
 - Co-founder at **Oryon Soluciones SAS** 🇦🇷 , we just became a proper SAS (Argentinian LLC) with my business partner. We build custom CRMs and automations for SMBs (PyMEs) using a heavy AI-first workflow.
