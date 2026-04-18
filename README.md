@@ -8,7 +8,7 @@ I build simple, useful things around Bitcoin/Lightning and Nostr. Curious by def
 - User management & support at **Alby**: helping users get on board the ship of the self-custodial wallet Alby Hub. 🚢🤵
 - Still learning how to fix and enhance the ship too. 🚢🛠️
 - Focused both on user experience and the appropriate use of tech for Lightning/Nostr apps.
-- I still keep a few freelance clients from my older niche: Patagonia, marine science, conservation, and tourism 🌊 (not taking anyone new — just long-term relationships).
+- I still keep a few freelance clients from my older niche: Patagonia, marine science, conservation, and tourism 🌊 (not taking anyone new just long-term relationships).
 
 ## Learning in public
 - All my personal projects are open source — the good, the bad, and the ugly, for everyone to see.
