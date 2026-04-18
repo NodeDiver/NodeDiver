@@ -2,7 +2,7 @@
 I build simple, useful things around Bitcoin/Lightning and Nostr. Curious by default, fast to learn, and currently going deep into AI-assisted development with Claude Code.
 
 ## Now
-- Co-founder at **Oryon Soluciones SAS** 🇦🇷 — we just became a proper SAS (Argentinian LLC) with my business partner. We build custom CRMs and automations for SMBs (PyMEs) using a heavy AI-first workflow.
+- Co-founder at **Oryon Soluciones SAS** 🇦🇷 , we just became a proper SAS (Argentinian LLC) with my business partner. We build custom CRMs and automations for SMBs (PyMEs) using a heavy AI-first workflow.
   - Currently serving 3 SMB clients with tailored CRMs + other automations running in production.
   - Stack: Next.js + TypeScript + Postgres on GCP, and a whole orchestration of Claude Code agents doing the heavy lifting.
 - User management & support at **Alby**: helping users get on board the ship of the self-custodial wallet Alby Hub. 🚢🤵
